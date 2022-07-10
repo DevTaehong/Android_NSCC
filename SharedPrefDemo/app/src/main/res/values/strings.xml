@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPrefDemo</string>
+    <string name="btnText">Save using Shared Pref</string>
+</resources>

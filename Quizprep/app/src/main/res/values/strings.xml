@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quizprep</string>
+    <string name="txtPressMe">Press Me</string>
+    <string name="txtPressBus">Press Me (from Bus)</string>
+</resources>

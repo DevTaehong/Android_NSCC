@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My ApplicationTest700_1</string>
+    <string name="txtHello">Hello There!</string>
+    <string name="txtHelloAgain">Hello Again</string>
+</resources>

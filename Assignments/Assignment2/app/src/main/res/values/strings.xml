@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="btnGotoQuiz">Go to the Quiz</string>
+    <string name="tvEnterName">Enter your name:</string>
+    <string name="etName"></string>
+    <string name="tvName">Enter your name:</string>
+    <string name="btnChoice4">Choice 4</string>
+    <string name="btnTerms"/>
+    <string name="btnChoice1">Choice 1</string>
+    <string name="btnChoice2">Choice 2</string>
+    <string name="btnChoice3">Choice 3</string>
+    <string name="btnAgain">Again</string>
+</resources>
