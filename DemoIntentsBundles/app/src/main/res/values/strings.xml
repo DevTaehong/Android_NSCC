@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Demo - Intents &amp; Bundles</string>
-    <string name="title_activity_two">ActivityTwo</string>
-    <string name="btnGotoTwo">Goto Two</string>
-    <string name="btnGotoMain">Goto Main</string>
-</resources>

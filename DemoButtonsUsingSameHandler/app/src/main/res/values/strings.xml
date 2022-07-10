@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Demo - Buttons Using Same Handler</string>
-    <string name="btnOne">Button One</string>
-    <string name="btnTwo">Button Two</string>
-    <string name="btnThree">Button Three</string>
-</resources>

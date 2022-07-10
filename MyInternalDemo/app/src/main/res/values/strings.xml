@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">MyInternalDemo</string>
-    <string name="btnWI">Write Internal</string>
-    <string name="btnRI">Read Internal</string>
-    <string name="btnRIR">Read Internal Raw</string>
-</resources>

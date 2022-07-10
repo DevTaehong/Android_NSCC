@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">IntentFirst</string>
-    <string name="btnBrowser">Browser</string>
-    <string name="btnPhone">Phone</string>
-    <string name="btnContacts">Contacts</string>
-    <string name="btnMap">Map</string>
-
-</resources>

@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Demo - Flag Wave</string>
-    <string name="btnWave">Wave Flag</string>
-    <string name="btnFade">Fade Flag</string>
-</resources>
